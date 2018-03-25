@@ -8,7 +8,7 @@
     <com.google.android.gms.samples.vision.face.photo.FaceView
         android:id="@+id/faceView"
         android:layout_width="match_parent"
-        android:layout_height="273dp" />
+        android:layout_height="220dp" />
 
     <Button
         android:id="@+id/button1"
@@ -19,7 +19,7 @@
     <com.google.android.gms.samples.vision.face.photo.FaceView
         android:id="@+id/faceView2"
         android:layout_width="match_parent"
-        android:layout_height="263dp"
+        android:layout_height="270dp"
         android:layout_weight="0.96" />
 
     <Button
